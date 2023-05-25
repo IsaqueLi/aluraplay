@@ -1,32 +1,30 @@
 {
   "videos": [
     {
-      "id": 1,
-      "titulo": "Conhecendo a linguagem Go | Hipsters.Talks",
-      "descricao": "3 mil visualizações",
-      "url": "https://www.youtube.com/embed/y8FeZMv37WU",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+      "titulo": "Educação coorporativa",
+      "descricao": "7 mil visualizações",
+      "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 1
     },
     {
-      "id": 2,
-      "titulo": "Desmistificando mobile - Linguagens e Frameworks",
-      "descricao": "1,5 mil visualizações",
-      "url": "https://www.youtube.com/embed/fmu1LQvZhms",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
-    },
-    {
-      "id": 3,
-      "titulo": "Orientação a objetos com Roberta Arcoverde | #Hipster...",
-      "descricao": "30 mil visualizações",
-      "url": "https://www.youtube.com/embed/jpuJ1qrluoU",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
-    },
-    {
-      "id": 4,
-      "titulo": "Linguagens e ferramentas usadas em Ciência de Dados...",
-      "descricao": "2,5 mil visualizações",
-      "url": "https://www.youtube.com/embed/h83e1aAM5xQ",
-      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+      "titulo": "Saiba tudo sobre o CURSO de Segurança da Informação e Defesa Cibernética",
+      "descricao": "7 mil visualizações",
+      "url": "https://www.youtube.com/embed/hyCqFs2AHSE",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 2
+    },{
+      "titulo": "C# - Boas PRÁTICAS de programação | #HipstersPontoTube",
+      "descricao": "5 mil visualizações",
+      "url": "https://www.youtube.com/embed/UzWatUjuaNI",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 3
+    },{
+      "titulo": "Melhor stack de Java para Cloud com Alberto Souza | #HipstersPontoTube",
+      "descricao": "5,8 mil visualizações",
+      "url": "https://www.youtube.com/embed/MnU1K1XIF1E",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 4
     }
   ]
 }
