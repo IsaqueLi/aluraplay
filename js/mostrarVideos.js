@@ -20,8 +20,14 @@ return video;
 }
 
 async function listaVideo() {
-    const listaApi = await conectaApi.listaVideos();
-    listaApi.forEach(elemento => lista.appendChild(constroiCard(elemento.titulo, elemento.descricao, elemento.url, elemento.imagem)));
+
+    try{
+        const listaApi = await conectaApi.listaVideos();
+        listaApi.forEach(elemento => lista.appendChild(
+            constroiCard(elemento.titulo, elemento.descricao, elemento.url, elemento.imagem)));
+    }catch{
+        lista.innerHTML = `<h2 class="imagem__titulo">Não foi possível caregar a lista de vídeos</h2>`
+    }
 }
 
 listaVideo();
